@@ -1,4 +1,4 @@
-<h3>Welcome to my GitHub, I'm João "ValenteXD" Valente</h3>
+<h3 align="center">Welcome to my GitHub, I'm João "ValenteXD" Valente</h3>
 
 ##
 <div align="center">
