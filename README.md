@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValenteXD&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" style="height:70px; width:80px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg">
+  <img align="center" style="height:70px; width:80px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
   <img align="center" style="height:70px; width:80px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" style="height:70px; width:80px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" style="height:70px; width:80px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-plain.svg">
